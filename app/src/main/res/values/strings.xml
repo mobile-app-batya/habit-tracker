@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Habit Tracker</string>
+    <string name="habit_list_item">Habit List Item</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="title_activity_habit_list_item">Track Your Habit</string>
+    <string name="large_text">Text</string>
+    <string name="action_settings">Settings</string>
 </resources>
